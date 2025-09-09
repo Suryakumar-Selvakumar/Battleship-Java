@@ -4,7 +4,7 @@
     <output url="file://$MODULE_DIR$/../../../../../../Battleship with Java/task/build/tmp/out/production/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../../Battleship with Java/task/build/tmp/src" />
-    <orderEntry type="jdk" jdkName="jbr-21 (5)" jdkType="JavaSDK" />
+    <orderEntry type="jdk" jdkName="jbr-21 (6)" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
