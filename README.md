@@ -33,6 +33,7 @@ program was developed incrementally, with each stage building toward a complete 
 
 ## Demo
 
+*Note: Gameplay was cut-in-between to conform to size limit constraints*
 <video width="1920" height="1080" align="center" src="https://github.com/user-attachments/assets/0dff6194-b1c0-4073-99f7-8129a6094f75"></video>
 
 ## Takeaway
